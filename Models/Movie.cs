@@ -1,5 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using dbExams.Data;
+using dbExams.Data.Enums;
 
 namespace dbExams.Models
 {
